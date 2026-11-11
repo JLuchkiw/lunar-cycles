@@ -13,6 +13,7 @@ Many productivity tools emphasize streaks, deadlines, and unfinished tasks. Luna
 
 - [Product Vision & Design Principles](docs/PRODUCT_VISION.md)
 - [MVP Scope & Requirements](docs/MVP_SCOPE.md)
+- [User Flows & Navigation](docs/USER_FLOWS.md)
 
 ## Planned experience
 - Intentions: Broad directions or values that can continue across multiple lunar cycles.
