@@ -9,6 +9,10 @@ The lunar cycle provides a recurring opportunity to plan, act, celebrate, and re
 ## Why build this?
 Many productivity tools emphasize streaks, deadlines, and unfinished tasks. Lunar Cycles explores a different approach: flexible routines, achievable steps, and an accomplishment log that recognizes both planned and unexpected progress. The design aims to be welcoming to people with different executive-function needs without assuming one workflow works for everyone.
 
+## Project Documentation
+
+- [Product Vision & Design Principles](docs/PRODUCT_VISION.md)
+
 ## Planned experience
 - Intentions: Broad directions or values that can continue across multiple lunar cycles.
 - Goals: Concrete outcomes that can be linked to an intention or stand alone.
